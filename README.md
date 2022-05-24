@@ -16,8 +16,7 @@
 
 ### Built With
 
-* [Python](https://www.python.org/)
-* [OpenCV](https://opencv.org/)
+* [Nodejs](https://nodejs.org/en/)
 
 ## Contact
 
