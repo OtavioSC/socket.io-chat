@@ -9,7 +9,7 @@
   <h3 align="center">Socket.io Chat</h3>
 
   <p align="center">
-    Store pictures to detect you with a simple Face Recognition AI 
+    Just a simple socket.io real time chat
     <br />
   </p>
 </div>
