@@ -19,6 +19,6 @@
 
 Otavio - [@otascar](https://twitter.com/otascar) - contato@otaviocarmo.com.br
 
-Project Link: [https://github.com/OtavioSC/faceDetection](https://github.com/OtavioSC/faceDetection)
+Project Link: [https://github.com/OtavioSC/socket.io-chat](https://github.com/OtavioSC/socket.io-chat)
 
 
